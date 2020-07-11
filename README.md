@@ -1,44 +1,10 @@
-# Welcome to olhho's Blog
+# Welcome to olhho's Website
 
 Youth is a book which cannot be closed when opened, the life is to set foot on the road that can not return the head, since insist, do not easily give up!
 
-## 技术篇
+## fresh every day
 
-### C/C++
-
-### Qt
-
-### Go
-
-### Python
-
-### Web前端
-
-### Android
-
-### 汇编/反汇编
-
-### Linux
-
-### Windows
-
-
-## 生活篇
-
-### 音乐
-
-### 电影
-
-### 轮滑
-
-### B-Box
-
-
-## 杂谈篇
-
-
-
-Welcome to olhho.github.io and start the journey of experience, I will share some technical articles at [xmlhh's Blog.](https://xmlhh.github.io/olhho.github.io)   
+Welcome to [xmlhh's Blog.](https://xmlhh.github.io/olhho.github.io) and start the journey of experience.
 
 Open source life.
 
